@@ -1,41 +1,26 @@
 ---
-project:
-  name: "LeaderKey.app"
-  description: "The *faster than your launcher* launcher - A riff on Raycast, @mxstbr's multi-key Karabiner setup, and Vim's <leader> key"
-  author: "Tim McMaster"
-  version: "0.1.0"
-
-origin:
-  repo_type: "forked"
-  git_url: "https://github.com/tmcmaster/LeaderKey.app"
-  created: "2025-03-29"
-  modified: "2025-09-30"
-
-classification:
-  status: "stable"
-  engagement: "shelved"
-  priority: "low"
-  intent: ["productivity", "keyboard shortcuts", "launcher replacement"]
-  domain: ["desktop applications", "macOS utilities"]
-  audience: "personal"
-
-stack:
-  languages: ["Swift", "Shell"]
-  frameworks: []
-  databases: []
-  infrastructure: []
-  cloud: "none"
-
-capabilities:
-  features: [
-    "keyboard:leader key functionality",
-    "keyboard:nested shortcuts",
-    "keyboard:customizable key bindings",
-    "ui:menubar integration",
-    "ui:configuration interface"
-  ]
-
-syntropy_id: ""
-collections: ["productivity tools", "macOS applications"]
-tags: ["launcher", "keyboard", "productivity", "macOS", "shortcuts", "leader key"]
+Title: LeaderKey.app
+Description: The *faster than your launcher* launcher - A riff on Raycast, @mxstbr's
+  multi-key Karabiner setup, and Vim's <leader> key
+Author: Tim McMaster
+Created: '2025-03-29'
+Modified: '2025-09-30'
+Status: concept
+Engagement: back-burner
+Audience: personal
+Priority: sometime
+Version: 0.1.0
+Repo-Type: forked
+Repo-Author: tmcmaster
+Repo-Name: LeaderKey.app
+Intent: []
+Domain: []
+Languages:
+- Swift
+- Shell
+Frameworks: []
+Databases: []
+Infrastructure: []
+Features: []
 ---
+
